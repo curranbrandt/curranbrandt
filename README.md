@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @curranbrandt
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning binary exploitation, assembly, etc
+- @curranbrandt
+- I’m interested in cybersecurity
+- I’m currently learning binary exploitation, assembly, etc
 
 <!---
 curranbrandt/curranbrandt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
