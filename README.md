@@ -1,6 +1,6 @@
 - @curranbrandt
 - I’m interested in cybersecurity
-- I’m currently learning binary exploitation, assembly, etc
+- I’m currently learning binary exploitation, reverse engineering, assembly, kernel development in C, etc
 
 <!---
 curranbrandt/curranbrandt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
